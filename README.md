@@ -24,9 +24,9 @@
 
 |   Functions   |   Description |
 |---------------|---------------|
-|`void addBook()`       |   add Book class into `std::vector<Book*> books`
-|`void displayAll()`    |   display all book classes inside `std::vector<Book*> books`
-|`void removeBook()`    |   remove Book class from `std::vector<Book*> books`
+|`void addBook()`       |   add Book object into `std::vector<Book*> books`
+|`void displayAll()`    |   display all book objects with `displayInfo()` called inside `std::vector<Book*> books`
+|`void removeBook()`    |   remove Book object from `std::vector<Book*> books`
 
 ---
 > Aaron Vasquez
